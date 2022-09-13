@@ -3,9 +3,9 @@
 
 
 
-# <Project Name>
+# Project Name
 
-<project description>
+project description
 
 
 ## Installation
