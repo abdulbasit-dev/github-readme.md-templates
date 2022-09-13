@@ -3,4 +3,5 @@
 
 ## list of templates
 1. <a href="https://github.com/abdulbasit-dev/github-readme.md-templates/blob/main/laravel.md">Laravel</a>
+2. <a href="https://github.com/abdulbasit-dev/github-readme.md-templates/blob/main/nodejs.md">Node.js</a>
 
